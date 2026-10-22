@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primalite</string>
+    <color name="ic_launcher_background">#121715</color>
+    <color name="splash_background">#F7F5EF</color>
+</resources>
